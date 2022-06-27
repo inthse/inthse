@@ -3,11 +3,12 @@ I'm **Jean Glaub**, and I've been building webpages for fun since I was a kid. N
 
 ### Favorite technology stack:
 - HTML / SCSS / Javascript
-- Node.js (vanilla)
-- MongoDB 
+- Node.js (with or without Express)
+- MongoDB (with Mongoose) 
 
 ### Additional familiar technologies:
 - React.js
+- Material UI
 
 ### Favorite design philosophies:
 - the Unix philosophy
