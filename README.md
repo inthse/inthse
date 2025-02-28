@@ -1,5 +1,5 @@
 ### Summary
-I'm **Jean Glaub**, and I've been building webpages for fun since I was a kid. Now I'm bringing that curiosity and passion into a career in web development. I've been busy coding at work (and learning all the time!) and haven't had free time to add new projects, but some of my older ones are still available here. You can [view live demos of some projects live](https://inthse-demo.glitch.me) and find me [on LinkedIn](https://www.linkedin.com/in/lis10jean/).
+I've been building webpages for fun since I was a kid. Now I'm bringing that curiosity and passion into a career in web development. I've been busy coding at work (and learning all the time!) and haven't had free time to add new projects, but some of my older ones are still available here.
 
 ### Familiar frontend frameworks
 - React (with or without NextJS)
@@ -18,6 +18,7 @@ I'm **Jean Glaub**, and I've been building webpages for fun since I was a kid. N
 - Material UI
 - Tailwind CSS (not preferred)
 - Daisy UI (uses Tailwind)
+- Shadcn
 
 ### Favorite design philosophies:
 - the Unix philosophy
